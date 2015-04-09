@@ -1,0 +1,52 @@
+﻿.form
+{
+    height: 595px;
+    width: 663px;
+}
+        
+.row{ margin: 10px;}
+        
+.label{
+    display:inline-block; 
+    text-align: right; 
+    width: 120px;
+    padding-right: 5px;}
+
+.textBox {
+    height: 200px;
+    width: 400px;
+    padding: 5px;
+    margin: 10px
+}
+.listBox {
+    height: 200px;
+    width: 500px;
+    padding: 5px;
+    margin: 20px
+}
+.dropdown {
+    Width: 400px;
+    Height: 22px
+}
+ 
+.displayPanel {
+    margin: 10px;
+}
+.listLabel {
+    margin: 10px;
+    display:block
+}
+.error {
+    color : red
+}
+.submissionButton {
+    border: 2px solid #f00;
+    border-style: ridge;
+    width: 15em;
+    background-color: lightgoldenrodyellow;
+}
+.submissionButton:hover {
+    border: 2px solid #f00;
+    background: #eef;
+}
+
